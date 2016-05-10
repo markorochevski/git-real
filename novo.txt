@@ -1,6 +1,1 @@
-this is new
-git-real extra
-this is extra new
-you are extra :D
-marko
-ke napraime konflict
+izbrisav sve
